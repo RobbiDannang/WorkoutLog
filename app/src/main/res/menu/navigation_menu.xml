@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--List of workouts-->
+    <Text android:text="Weighted Workouts">
+    </Text>
+
+    <item android:id="@+id/barbellsquats"
+        android:title="Barbell Squats"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item android:id="@+id/pullups"
+        android:title="Pull-ups"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item android:id="@+id/pushups"
+        android:title="Push-ups"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item android:id="@+id/seatedoverheadbarbellpress"
+        android:title="Seated Overhead Barbell Press"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item android:id="@+id/legcurls"
+        android:title="Leg Curls"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item android:id="@+id/twentyonedumbellcurls"
+        android:title="21 Dumbell Curls"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item android:id="@+id/flatbarbellbenchpress"
+        android:title="Flat Barbell Bench Press"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item android:id="@+id/horizontalbarbellrows"
+        android:title="Horizontal Barbell Rows"
+        android:icon="@drawable/ic_launcher_background"/>
+
+
+    <item android:id="@+id/verticalrows"
+        android:title="Vertical Rows"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item android:id="@+id/obliquesweights"
+        android:title="Obliques Weights"
+        android:icon="@drawable/ic_launcher_background"/>
+</menu>
